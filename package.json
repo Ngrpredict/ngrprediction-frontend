@@ -1,7 +1,11 @@
 {
   "name": "ngrprediction-frontend",
   "version": "1.0.0",
+  "description": "Frontend for NGR Prediction",
   "scripts": {
-    "build": "echo 'No build step needed'"
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
   }
 }
